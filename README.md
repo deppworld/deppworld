@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **deppworld/deppworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Deepak Verma, PhD
 depp@live.in; dverma2@jh.edu
